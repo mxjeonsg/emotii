@@ -1,0 +1,23 @@
+1 VERSIONINFO
+FILEVERSION 0,0,69,2
+PRODUCTVERSION 0,0,69,2
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "080904E4"
+    BEGIN
+      VALUE "CompanyName", "divinity labs"
+      VALUE "FileDescription", "Emotii"
+      VALUE "FileVersion", "0.0.69.2"
+      VALUE "InternalName", "emotii_release"
+      VALUE "LegalCopyright", "(R) 2024 divinity labs"
+      VALUE "OriginalFilename", "emotii_release.exe"
+      VALUE "ProductName", "Emotii"
+      VALUE "ProductVersion", "0.0.69.2"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x809, 1252
+  END
+END

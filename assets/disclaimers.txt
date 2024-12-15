@@ -1,0 +1,70 @@
+[0]
+Powered by SDL2 Libraries and/or extensions.
+
+[1]
+This game is not suitable for children or those
+who are easily disturbed.
+This game 
+
+[1-ro]
+Avertisment privind conținutul jocului
+
+Acest joc conține teme mature și potențial supărătoare
+care ar putea să nu fie potrivite pentru toți jucătorii.
+Acesta abordează subiecte precum diagnostice greșite de sănătate mintală,
+depresie severă, probleme de sănătate mintală nediagnosticate
+sau adiacente și autovătămare.
+Include discuții și glume făcute de personaje
+care pot fi supărătoare sau declanșante pentru unii jucători.
+
+Jocul abordează, de asemenea, subiecte sensibile, cum ar fi șomajul în țările
+din lumea a treia sau în țările în curs de dezvoltare, supraidealizarea indivizilor
+și utilizarea unui limbaj puternic, inclusiv înjurături, insulte
+și termeni vulgari, care sunt prezenți pe tot parcursul jocului
+și ai acestuia. materiale.
+
+Datorită conținutului matur și temelor explorate în joc,
+este recomandat jucătorilor cu vârsta de 16 (șaisprezece) și mai mult.
+Această evaluare de vârstă este recomandată pentru a asigura
+o mai bună înțelegere a mesajelor și temelor complexe ale jocului.
+Personajele din acest joc au în principal 16 (șaisprezece) ani
+sau mai mult, unele având 18 (optsprezece) și peste.
+
+Dacă sunteți sensibil la astfel de subiecte sau dacă
+sunteți ușor deranjat de acestea, vă rugăm să luați
+în considerare dacă acest joc este potrivit pentru dvs.
+Procedați cu prudență și acordați prioritate bunăstării
+voastre mentale și emoționale în timp ce jucați.
+
+Dacă dumneavoastră sau cineva pe care îl cunoașteți
+vă confruntați cu probleme de sănătate mintală,
+este întotdeauna cel mai bine să căutați sprijin de la
+un profesionist autorizat.
+Profesioniștii din domeniul sănătății mintale, cum ar fi
+psihologii, pot oferi diagnostice precise, îndrumări și
+planuri de tratament personalizate,
+care sunt mult mai fiabile decât orice joc video,
+conținut din rețelele sociale sau experiență personală
+împărtășită de alții.
+
+Deși jocul acestui joc îi poate ajuta pe unii jucători să obțină
+o perspectivă asupra problemelor de sănătate mintală,
+este esențial să ne amintim că experiențele din viața reală
+sunt unice și ceea ce funcționează pentru o persoană poate să nu funcționeze
+pentru alta.
+Orice mesaj pozitiv pe care îl puteți lua din acest joc trebuie
+privit cu prudență și nu trebuie să înlocuiască niciodată sfatul
+medicului profesionist.
+Prioritizează-ți întotdeauna bunăstarea mentală și fizică și fă-ți
+timp pentru a contacta profesioniști pregătiți atunci când este nevoie.
+
+Dacă vă simțiți copleșit sau aveți nevoie de cineva cu care să vorbiți,
+vă rugăm să contactați serviciile de asistență sau un consilier din zona dvs.
+Să ai grijă de tine este cel mai important lucru și există
+resurse disponibile pentru a te ajuta.
+
+Vă rugăm să rețineți: nu vă autodiagnosticați și nu tratați
+niciodată afecțiunile de sănătate mintală pe baza a ceea
+ce vedeți în jocuri, rețelele sociale sau experiențele altora.
+Ajutorul profesional este întotdeauna cea mai eficientă
+abordare pentru oricine se luptă cu sănătatea mintală.
