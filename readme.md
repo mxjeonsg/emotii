@@ -19,8 +19,9 @@ git clone https://github.com/mxjeonsg/emotii
 ```
 
 3.- Then `cd` into the cloned folder and run it.
-````console
+```console
 dotnet run
 ```
+
 
 <p style="font-size: 6px;">Made with <3 by Jeon and powered by Raylib. <3</p>
