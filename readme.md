@@ -5,7 +5,7 @@
 ## How to build?
 0.- Ensure you're running Windows or set up .NET in Linux correctly.
 
-1.- You'd want to install [https://dotnet.microsoft.com/en-us/download](.NET Framework 9)
+1.- You'd want to install [.NET Framework 9](https://dotnet.microsoft.com/en-us/download)
 so the command `dotnet` is available.
 
 2.- Then, clone the repository wherever you want.
